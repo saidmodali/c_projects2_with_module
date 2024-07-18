@@ -1,0 +1,4 @@
+﻿  main..c
+C:\Users\said_\Desktop\c_projects_2\calculate_process_time\calculate_process_time\main..c(11,13): warning C4133: 'initializing': incompatible types - from 'const char *' to 'const int *'
+C:\Users\said_\Desktop\c_projects_2\calculate_process_time\calculate_process_time\main..c(12,13): warning C4133: 'initializing': incompatible types - from 'const char *' to 'const int *'
+  calculate_process_time.vcxproj -> C:\Users\said_\Desktop\c_projects_2\calculate_process_time\x64\Debug\calculate_process_time.exe

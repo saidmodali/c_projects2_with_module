@@ -1,0 +1,22 @@
+﻿  main.c
+  vector.c
+C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(30,20): warning C4267: '=': conversion from 'size_t' to 'DATATYPE', possible loss of data
+C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(56,13): warning C4267: '=': conversion from 'size_t' to 'DATATYPE', possible loss of data
+C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(73,13): warning C4267: '=': conversion from 'size_t' to 'DATATYPE', possible loss of data
+C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(106,17): warning C4267: '=': conversion from 'size_t' to 'DATATYPE', possible loss of data
+C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(118,34): warning C4267: '=': conversion from 'size_t' to 'DATATYPE', possible loss of data
+C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(157,9): warning C4477: 'printf' : format string '%zu' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'DATATYPE'
+  C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(157,9):
+  consider using '%u' in the format string
+  C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(157,9):
+  consider using '%I32u' in the format string
+  
+C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(157,9): warning C4477: 'printf' : format string '%zu' requires an argument of type 'unsigned __int64', but variadic argument 2 has type 'DATATYPE'
+  C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(157,9):
+  consider using '%u' in the format string
+  C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(157,9):
+  consider using '%I32u' in the format string
+  
+  Generating Code...
+C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\my_vector_module_handle\vector.c(87): warning C4716: 'destroy_vector': must return a value
+  my_vector_module_handle.vcxproj -> C:\Users\said_\Desktop\my_vector_module_handle\my_vector_module_handle\x64\Debug\my_vector_module_handle.exe

@@ -1,0 +1,8 @@
+﻿  main.c
+  type.c
+C:\Users\said_\Desktop\c_projects_2\union_and_structure\union_and_structure\union_and_structure\type.c(14,2): warning C4013: 'printf' undefined; assuming extern returning int
+C:\Users\said_\Desktop\c_projects_2\union_and_structure\union_and_structure\union_and_structure\type.c(19,2): warning C4013: 'scanf' undefined; assuming extern returning int
+C:\Users\said_\Desktop\c_projects_2\union_and_structure\union_and_structure\union_and_structure\type.c(44,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\said_\Desktop\c_projects_2\union_and_structure\union_and_structure\union_and_structure\type.c(57,15): warning C4098: 'get_type': 'void' function returning a value
+  Generating Code...
+  union_and_structure.vcxproj -> C:\Users\said_\Desktop\c_projects_2\union_and_structure\union_and_structure\x64\Debug\union_and_structure.exe
